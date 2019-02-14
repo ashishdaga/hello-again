@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello git! Hello GIT! Hello Hello Hello!
+=======
+Hello git! Hello GIT! Hello!
+
+>>>>>>> 88fb28a9600456c365672bbd303615f9d255b0f4
