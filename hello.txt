@@ -1,2 +1,2 @@
-Hello git! Hello GIT! Hello! GitHub!
+Hello git! Hello GIT! Hello!
 Hello from Branch1!
